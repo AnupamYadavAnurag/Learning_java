@@ -1,4 +1,4 @@
-dfimport java.util.Scanner;
+import java.util.Scanner;
 
 public class CheckPositive {
     public static void main(String[] args) {
