@@ -21,8 +21,8 @@ class Student {
 
 public class ConstructorOverloadDemo {
     public static void main(String[] args) {
-        Student s1 = new Student();                // calls no-arg
-        Student s2 = new Student("Anupam", 101);   // calls param constructor
+        Student s1 = new Student();                // calls no-arg constructor
+        Student s2 = new Student("Anupam", 101);   // calls parameterized constructor
 
         s1.display();
         s2.display();
