@@ -19,7 +19,7 @@ class Count_Letter {
             }
         }
 
-        // Final output
+        // Final output no of letter 
         System.out.println("No of letter a = " + count);     
     }
 }
