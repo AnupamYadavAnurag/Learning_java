@@ -25,7 +25,7 @@ class ElectricScooter extends Vehicle {
     }
 }
 
-public class VehicleTest {
+public class PolymorphismVehicleTest {
     public static void main(String[] args) {
         Vehicle v;
 
