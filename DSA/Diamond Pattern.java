@@ -11,7 +11,7 @@ public class DiamondPattern {
             }
             System.out.println();
         }
-        // Lower part of the diamond
+        // Lower part of the diam
         for (int i = rows - 1; i >= 1; i--) {
             for (int j = i; j < rows; j++) {
                 System.out.print(" ");
@@ -23,3 +23,4 @@ public class DiamondPattern {
         }
     }
 }
+
