@@ -6,7 +6,7 @@ public class InvertedEquilateralTrianglePattern {
             for (int j = i; j < rows; j++) {
                 System.out.print(" ");
             }
-            // Print stars
+            // Print star
             for (int j = 1; j <= (2 * i - 1); j++) {
                 System.out.print("*");
             }
@@ -14,3 +14,4 @@ public class InvertedEquilateralTrianglePattern {
         }
     }
 }
+
